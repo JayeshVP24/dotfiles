@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+alias esc="$HOME/.config/sway/config"
+alias vim="$VIM"
+alias work="cd ~/work"
+
+alias python="python3"
+

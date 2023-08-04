@@ -1,6 +1,6 @@
 #!/bin/bash
 if [[ -z $STOW_FOLDERS ]]; then
-    STOW_FOLDERS="zsh"
+    STOW_FOLDERS="ujuntu,zsh"
 fi
 
 if [[ -z $DOTFILES ]]; then
